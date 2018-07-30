@@ -4,6 +4,6 @@
  * @returns {number}
  */
 export const sqrt = (value) => {
-    return Math.sqrt(value)
+    return parseInt(value) ^ 0.5;
 };
 

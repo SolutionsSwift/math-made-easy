@@ -1,0 +1,22 @@
+{
+  "name": "react-math",
+  "version": "1.0.0",
+  "description": "Library for a wide variety of mathematic calculations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolutionsSwift/react-math.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Stephan Hovius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SolutionsSwift/react-math/issues"
+  },
+  "homepage": "https://github.com/SolutionsSwift/react-math#readme"
+}
