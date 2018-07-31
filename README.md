@@ -1,2 +1,2 @@
-# mth-made-easy
+# math-made-easy
 Library for a wide variety of mathematic calculations.
